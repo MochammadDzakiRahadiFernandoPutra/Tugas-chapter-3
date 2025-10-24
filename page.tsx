@@ -13,7 +13,7 @@ export default function LearnComponent() {
         >
           karbit pergi ajah😡
         </Card>
-        <button className="mt-3 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg">
+        <button className="mt-10 px-4 py-2 bg-red-500 hover:bg-red-600 text-white rounded-lg">
           Lihat Detail
         </button>
       </div>
@@ -26,7 +26,7 @@ export default function LearnComponent() {
         >
           orang dewasa dilarang masuk😜
         </Card>
-        <button className="mt-3 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg">
+        <button className="mt-5 px-6 py-4 bg-green-500 hover:bg-green-600 text-white rounded-lg">
           Lihat Detail
         </button>
       </div>
@@ -34,12 +34,12 @@ export default function LearnComponent() {
       {/* CARD 3 */}
       <div className="flex flex-col items-center">
         <Card
-          imageSource="https://i.pinimg.com/736x/49/08/4a/49084aebf9c7cfdb94f7b8107e211e28.jpg"
+          imageSource="https://i.pinimg.com/736x/0f/ab/82/0fab8232047fb8b8fb8db990b27a3f78.jpg"
           name="Gweh banget🥶"
         >
           aseli no howak
         </Card>
-        <button className="mt-3 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg">
+        <button className="mt-5 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg">
           Lihat Detail
         </button>
       </div>
@@ -52,7 +52,7 @@ export default function LearnComponent() {
         >
           awas kamu yah😡
         </Card>
-        <button className="mt-3 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg">
+        <button className="mt-8 px-2 py-5 bg-yellow-500 hover:bg-yellow-600 text-red-500 rounded-lg">
           Lihat Detail
         </button>
       </div>
@@ -65,7 +65,7 @@ export default function LearnComponent() {
         >
           aseli no fek fek😜
         </Card>
-        <button className="mt-3 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg">
+        <button className="mt-3 px-4 py-2 bg-orange-500 hover:bg-orange-600 text-black rounded-lg">
           Lihat Detail
         </button>
       </div>
